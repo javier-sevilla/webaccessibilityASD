@@ -8,4 +8,7 @@ Javier Sevilla, Gerardo Herrera, Bibiana Martínez, Francisco Alcantud.
 ACM Transactions on Computer-Human Interaction (TOCHI), Volume 14, Issue 3
 https://doi.org/10.1145/1279700.1279702
 
+The web could be tested at:
+https://robotica.uv.es/~jsevilla/webs/test/output/home.html
+
 ![image](https://github.com/user-attachments/assets/13687581-877a-415a-96d5-ab697a2d8101)
