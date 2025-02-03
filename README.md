@@ -14,4 +14,4 @@ https://robotica.uv.es/~jsevilla/webs/test/output/home.html
 ![image](https://github.com/user-attachments/assets/13687581-877a-415a-96d5-ab697a2d8101)
 
 The paper could de read from:
-[Here](https://robotica.uv.es/~jsevilla/public_html/webs/paperWebAccessibility.pdf)
+[Here](https://robotica.uv.es/~jsevilla/webs/paperWebAccessibility.pdf)
